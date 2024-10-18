@@ -8,7 +8,7 @@
 
 body {
     @apply bg-cover bg-center;
-    background-image: url('/src/assets/Untitled\ design.png');
+    background-image: url('/src/assets/backgorundImg.png');
     backdrop-filter: blur(2px);
   }
   

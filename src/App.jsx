@@ -10,12 +10,14 @@ function App() {
 
   return (
     <>
+
     <Navbar/>
       <Home/>
       <About/>
       <RoadMap/>
       <Tokens/>
       <Footer/>
+    
     </>
   )
 }
