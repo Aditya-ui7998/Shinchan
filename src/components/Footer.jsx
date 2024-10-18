@@ -4,7 +4,7 @@ const Footer = () => {
   return ( 
     <footer id='contact' className="py-6 mt-[500px] sm:mt-0 md:mt-[400px]">
       <div className="flex justify-center items-center space-x-8">
-        {/* Facebook */}
+
         <a
           href="https://facebook.com"
           target="_blank"
@@ -14,7 +14,6 @@ const Footer = () => {
           <FaFacebookF />
         </a>
 
-        {/* Twitter */}
         <a
           href="https://twitter.com"
           target="_blank"
@@ -24,7 +23,6 @@ const Footer = () => {
           <FaTwitter />
         </a>
 
-        {/* Instagram */}
         <a
           href="https://instagram.com"
           target="_blank"
@@ -34,7 +32,6 @@ const Footer = () => {
           <FaInstagram />
         </a>
 
-        {/* LinkedIn */}
         <a
           href="https://linkedin.com"
           target="_blank"

@@ -6,7 +6,7 @@ const Home = () => {
       className="w-[90%] h-screen m-auto mt-10 bg-cover bg-center p-8 rounded-xl shadow-lg border-4 border-black mb-5"
       style={{
         backgroundImage: `url(${HomeBg})`,
-        backgroundColor: '#f97316', // Matches the orange background
+        backgroundColor: '#f97316', 
       }}
     >
       {/* Heading */}
@@ -31,8 +31,6 @@ const Home = () => {
         Inventore nostrum vero nemo id maiores reprehenderit non adipisci ducimus quaerat in.
         Lorem ipsum dolor sit amet.
       </p>
-
-      {/* Characters (if you want to include images later, add them here) */}
     </div>
   );
 };
