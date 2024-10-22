@@ -29,7 +29,7 @@ const RoadMap = () => {
           }}
           >Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, libero?</p>
         </div>
-        <div className=" shadow-lg rounded-lg p-8 w-64 h-64 text-center flex flex-col items-center justify-center rotate-[80deg] transform translate-y-[85px] md:translate-y-[85px]">
+        <div className="  rounded-lg p-8 w-64 h-64 text-center flex flex-col items-center justify-center rotate-[80deg] transform translate-y-[85px] md:translate-y-[85px]">
           <h2 className="text-xl font-bold mb-4"
          style={{
           fontFamily: 'Montserrat Alternates'
@@ -41,7 +41,7 @@ const RoadMap = () => {
           }}
           >Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, iste.</p>
         </div>
-        <div className=" shadow-lg rounded-lg p-8 w-64 h-64 text-center flex flex-col items-center justify-center rotate-[70deg] translate-y-[55px] md:translate-y-[55px]">
+        <div className="  rounded-lg p-8 w-64 h-64 text-center flex flex-col items-center justify-center rotate-[70deg] translate-y-[55px] md:translate-y-[55px]">
           <h2 className="text-xl font-bold mb-4"
           style={{
             fontFamily: 'Montserrat Alternates'
@@ -53,7 +53,7 @@ const RoadMap = () => {
           }}
           >Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, fuga!</p>
         </div>
-        <div className=" shadow-lg rounded-lg p-8 w-64 h-64 text-center flex flex-col items-center justify-center rotate-[50deg] translate-y-[-65px] md:translate-y-[-65px]">
+        <div className=" rounded-lg p-8 w-64 h-64 text-center flex flex-col items-center justify-center rotate-[50deg] translate-y-[-65px] md:translate-y-[-65px]">
           <h2 className="text-xl font-bold mb-4"
           style={{
             fontFamily: 'Montserrat Alternates'
